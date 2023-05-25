@@ -1,0 +1,196 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_10.4e/examples
+vmips_alu
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 DXx4 work 8 mips_pkg 0 22 3Og0iBFF=^J?AK@CSRL]>0
+Z2 !s110 1685025260
+!i10b 1
+!s100 zE3jVc]F6Ja<YBDd38]7l1
+Ii@hEGAG=>cYGId?_cnDU<3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 mips_alu_sv_unit
+S1
+Z4 dD:/GitHub/sc-mips/questasim
+w1681933264
+8D:/GitHub/sc-mips/core/mips_alu.sv
+FD:/GitHub/sc-mips/core/mips_alu.sv
+L0 1
+Z5 OL;L;10.4e;61
+r1
+!s85 0
+31
+Z6 !s108 1685025260.000000
+!s107 D:/GitHub/sc-mips/core/mips_alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_alu.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ymips_bfm
+R0
+R1
+R2
+!i10b 1
+!s100 Tn72PLYl8k]=9dOQh=7_L3
+IRPYD4zkDf=7LOT6L4mc;B2
+R3
+!s105 mips_bfm_sv_unit
+S1
+R4
+w1685024928
+8D:/GitHub/sc-mips/core/mips_bfm.sv
+FD:/GitHub/sc-mips/core/mips_bfm.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/GitHub/sc-mips/core/mips_bfm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_bfm.sv|
+!i113 0
+R7
+vmips_control
+R0
+R1
+Z8 !s110 1685025261
+!i10b 1
+!s100 5c9dQYgW>`mJV<em5R>YI3
+IPG8HHRkLJllY^HQe[[JkD2
+R3
+!s105 mips_control_sv_unit
+S1
+R4
+w1685024972
+8D:/GitHub/sc-mips/core/mips_control.sv
+FD:/GitHub/sc-mips/core/mips_control.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z9 !s108 1685025261.000000
+!s107 D:/GitHub/sc-mips/core/mips_control.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_control.sv|
+!i113 0
+R7
+vmips_core
+R0
+R8
+!i10b 1
+!s100 >[zfYE5L?=@9nAW2_2NFS2
+I5QdT]b^ec[>?54cg=OEG01
+R3
+!s105 mips_core_sv_unit
+S1
+R4
+w1685025246
+8D:/GitHub/sc-mips/core/mips_core.sv
+FD:/GitHub/sc-mips/core/mips_core.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/GitHub/sc-mips/core/mips_core.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_core.sv|
+!i113 0
+R7
+vmips_datapath
+R0
+R8
+!i10b 1
+!s100 i>bJ9[lJHj]kh6?81hN752
+IRVZ;OZ=LCfLP=:0^LF=IG2
+R3
+!s105 mips_datapath_sv_unit
+S1
+R4
+w1685025252
+8D:/GitHub/sc-mips/core/mips_datapath.sv
+FD:/GitHub/sc-mips/core/mips_datapath.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/GitHub/sc-mips/core/mips_datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_datapath.sv|
+!i113 0
+R7
+vmips_mem
+R0
+R8
+!i10b 1
+!s100 7Z?Z>GhVYZ]R[hF9?Q??K1
+IRnAD<zzN0z;>SAE9ACLKM2
+R3
+!s105 mips_mem_sv_unit
+S1
+R4
+w1681932908
+8D:/GitHub/sc-mips/core/mips_mem.sv
+FD:/GitHub/sc-mips/core/mips_mem.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/GitHub/sc-mips/core/mips_mem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_mem.sv|
+!i113 0
+R7
+Xmips_pkg
+R0
+R8
+!i10b 1
+!s100 PnZgL>59K_^]VCPhOL8Ie0
+I3Og0iBFF=^J?AK@CSRL]>0
+V3Og0iBFF=^J?AK@CSRL]>0
+S1
+R4
+w1685024358
+8D:/GitHub/sc-mips/core/mips_pkg.sv
+FD:/GitHub/sc-mips/core/mips_pkg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/GitHub/sc-mips/core/mips_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_pkg.sv|
+!i113 0
+R7
+vmips_regfile
+R0
+R8
+!i10b 1
+!s100 [aKT?3C3K]YRl6PUSmlWE0
+IN=BdXRM9LW?Dz8fP;XCR91
+R3
+!s105 mips_regfile_sv_unit
+S1
+R4
+w1681931349
+8D:/GitHub/sc-mips/core/mips_regfile.sv
+FD:/GitHub/sc-mips/core/mips_regfile.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/GitHub/sc-mips/core/mips_regfile.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/GitHub/sc-mips/core/mips_regfile.sv|
+!i113 0
+R7

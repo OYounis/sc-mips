@@ -1,0 +1,54 @@
+D:/GitHub/sc-mips/core/mips_datapath.sv {0 {vlog -work work -vopt -sv -stats=none D:/GitHub/sc-mips/core/mips_datapath.sv
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling module mips_datapath
+** Error: D:/GitHub/sc-mips/core/mips_datapath.sv(42): (vlog-2163) Macro `PC is undefined.
+
+** Error: (vlog-13069) D:/GitHub/sc-mips/core/mips_datapath.sv(42): near ";": syntax error, unexpected ';'.
+
+
+} {4.0 5.0 6.0 7.0} {}} D:/GitHub/sc-mips/core/mips_mem.sv {1 {vlog -work work -vopt -sv -stats=none D:/GitHub/sc-mips/core/mips_mem.sv
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling module mips_mem
+
+Top level modules:
+	mips_mem
+
+} {} {}} D:/GitHub/sc-mips/core/mips_control.sv {1 {vlog -work work -vopt -sv -stats=none D:/GitHub/sc-mips/core/mips_control.sv
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling module mips_control
+-- Importing package mips_pkg
+
+Top level modules:
+	mips_control
+
+} {} {}} D:/GitHub/sc-mips/core/mips_bfm.sv {1 {vlog -work work -vopt -sv -stats=none D:/GitHub/sc-mips/core/mips_bfm.sv
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling interface mips_bfm
+-- Importing package mips_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/GitHub/sc-mips/core/mips_regfile.sv {1 {vlog -work work -vopt -sv -stats=none D:/GitHub/sc-mips/core/mips_regfile.sv
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling module mips_regfile
+
+Top level modules:
+	mips_regfile
+
+} {} {}} D:/GitHub/sc-mips/core/mips_pkg.sv {1 {vlog -work work -vopt -sv -stats=none D:/GitHub/sc-mips/core/mips_pkg.sv
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling package mips_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/GitHub/sc-mips/core/mips_alu.sv {1 {vlog -work work -vopt -sv -stats=none D:/GitHub/sc-mips/core/mips_alu.sv
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling module mips_alu
+-- Importing package mips_pkg
+
+Top level modules:
+	mips_alu
+
+} {} {}}
